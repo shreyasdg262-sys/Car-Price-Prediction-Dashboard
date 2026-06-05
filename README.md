@@ -52,7 +52,7 @@ CAR/
 ### 1️⃣ Clone the Repository
 
 ```bash
-git clone https://github.com/your-username/car-price-prediction.git
+git clone https://github.com/shreyasdg262-sys/car-price-prediction.git
 cd car-price-prediction
 ```
 
